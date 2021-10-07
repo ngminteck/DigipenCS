@@ -1,0 +1,30 @@
+﻿  main.cpp
+D:\MAT351_Project1_Ng_Min_Teck\Project1\Project1\Camera.h(311,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\MAT351_Project1_Ng_Min_Teck\Project1\Project1\main.cpp(99,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\MAT351_Project1_Ng_Min_Teck\Project1\Project1\main.cpp(130,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\MAT351_Project1_Ng_Min_Teck\Project1\Project1\main.cpp(134,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\MAT351_Project1_Ng_Min_Teck\Project1\Project1\main.cpp(236,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\MAT351_Project1_Ng_Min_Teck\Project1\Project1\main.cpp(366,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\MAT351_Project1_Ng_Min_Teck\Project1\Project1\main.cpp(423,54): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\MAT351_Project1_Ng_Min_Teck\Project1\Project1\main.cpp(457,19): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\MAT351_Project1_Ng_Min_Teck\Project1\Project1\main.cpp(546,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\MAT351_Project1_Ng_Min_Teck\Project1\Project1\main.cpp(548,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\MAT351_Project1_Ng_Min_Teck\Project1\Project1\main.cpp(548,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\MAT351_Project1_Ng_Min_Teck\Project1\Project1\main.cpp(553,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\MAT351_Project1_Ng_Min_Teck\Project1\Project1\main.cpp(555,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\MAT351_Project1_Ng_Min_Teck\Project1\Project1\main.cpp(556,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\MAT351_Project1_Ng_Min_Teck\Project1\Project1\main.cpp(559,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\MAT351_Project1_Ng_Min_Teck\Project1\Project1\main.cpp(563,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\MAT351_Project1_Ng_Min_Teck\Project1\Project1\main.cpp(565,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\MAT351_Project1_Ng_Min_Teck\Project1\Project1\main.cpp(565,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\MAT351_Project1_Ng_Min_Teck\Project1\Project1\main.cpp(565,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\MAT351_Project1_Ng_Min_Teck\Project1\Project1\main.cpp(565,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\MAT351_Project1_Ng_Min_Teck\Project1\Project1\main.cpp(567,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\MAT351_Project1_Ng_Min_Teck\Project1\Project1\main.cpp(567,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\MAT351_Project1_Ng_Min_Teck\Project1\Project1\main.cpp(701,19): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Generating code
+  2 of 339 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project1.vcxproj -> D:\MAT351_Project1_Ng_Min_Teck\Project1\x64\Release\Project1.exe

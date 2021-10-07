@@ -1,0 +1,25 @@
+# web script will insert definition of PRG here 
+# it will include student's login (security)
+GCC=g++ #required for online testing
+#MSC=cl  #optional - mostly to help students who prefer VC
+
+GCCFLAGS=-std=c++1z -Wall -Wextra -Werror -pedantic
+#MSCFLAGS=/std:c++latest /EHa /W4 /WX /Za /Zc:forScope /nologo /D_CRT_SECURE_NO_DEPRECATE /D"_SECURE_SCL 0" /O2i /GL
+
+VALGRIND_OPTIONS=-q --leak-check=full
+DIFF_OPTIONS=-y --strip-trailing-cr --suppress-common-lines
+
+OSTYPE := $(shell uname)
+ifeq ($(OSTYPE),Linux)
+CYGWIN=
+else
+CYGWIN=-Wl,--enable-auto-import
+endif
+
+OBJECTS0=gensoa.h
+DRIVER0=driver.cpp
+
+gcc0:
+	$(GCC) $(DRIVER0) $(GCCFLAGS) $(CYGWIN) -o $(PRG) #PRG will be defined by web script
+clean:
+	rm -f *.exe *.o *.obj *.tds *.exe.manifest student* difference*

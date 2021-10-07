@@ -1,0 +1,9 @@
+8 8 
+RNBQKBNR
+PPPPPPPP
+eeeeeeee
+eeeeeeee
+eeeeeeee
+eeeeeeee
+pppppppp
+rnbqkbnr
