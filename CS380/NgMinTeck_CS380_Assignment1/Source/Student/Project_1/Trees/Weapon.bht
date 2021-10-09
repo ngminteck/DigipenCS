@@ -1,0 +1,4 @@
+TREENAME(Weapon)
+TREENODE(C_Sequencer, 0)
+TREENODE(L_Weapon, 1)
+TREENODE(L_Weapon, 1)
